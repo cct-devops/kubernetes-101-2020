@@ -1,0 +1,6 @@
+apiVersion: v2
+name: example-chart
+description: this is used to deploy nginx
+type: application
+version: 0.1.0
+appVersion: 1.16.0
